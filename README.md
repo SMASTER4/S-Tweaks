@@ -5,7 +5,7 @@ The whole world and even the Minecraft-Bedrock Edition makes the UI more simple 
 
 
 # **⚠️WARNING⚠️**
-**THIS MOD HAVE BUGS AND LOOK MIGHT A LITTLE BIT DIFFERENT FROM VERSION TO VERSION. I ACTUALLY HAVE NO BUG TRACKER. I WILL ADD ONE LATER.**
+**THIS RESSOURCEPACK HAVE BUGS AND LOOK MIGHT A LITTLE BIT DIFFERENT FROM VERSION TO VERSION**
 
 # How I can install it
 1. Download the Pack over the Version section in the Version you want to play with. If you cant find your version try a similar version out. For more information look below the Suported versions heading.
