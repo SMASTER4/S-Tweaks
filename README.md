@@ -1,6 +1,4 @@
 # About the pack
-The whole world and even the Minecraft-Bedrock Edition makes the UI more simple and clean why the Minecraft-Java should'nt? You can now say: "Yes, thats true, but some poeple do not like the blending." and that is a good argument, but for that reason I created this texturepack.
-
 **S-Tweaks** is just a texturepack wich makes your Minecraft **UI** more **lite** and **modern**. The hotbar is inspired by the Windows 10 App highlighting. The changed UI contains **no shading** or other complex effects wich make them a lot more easy to read.
 
 
