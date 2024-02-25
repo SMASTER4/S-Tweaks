@@ -1,6 +1,5 @@
 # About the pack
 **S-Tweaks** is just a texturepack wich makes your Minecraft **UI** more **lite** and **modern**. The hotbar is inspired by the Windows 10 App highlighting. The changed UI contains **no shading** or other complex effects wich make them a lot more easy to read.
-Downloads:<body id="downloads"></body>
 
 <details>
   <summary>Installation Guide</summary>
@@ -23,10 +22,3 @@ It is available for **1.20.1** and **1.20.2** format. This does means it will su
 
 # TODO
 + Edit anvil invetory
-
-<script>
-var xmlHttp = new XMLHttpRequest();
-    xmlHttp.open( "GET", https://api.modrinth.com/v2/project/s-tweaks, false );
-    xmlHttp.send( null );
-document.getElementById("downloads").innerHTML = xmlHttp.responseText;
-</script>
